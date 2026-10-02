@@ -4,6 +4,7 @@ backend/__pycache__/
 **/__pycache__/
 *.pyc
 backend/app/uploads/
+backend/app/ml/*.joblib
 
 # Node
 frontend/node_modules/
@@ -17,4 +18,3 @@ backend/smart_construction.db
 
 # Editor
 .vscode/
-backend/app/ml/*.joblib
