@@ -1,0 +1,20 @@
+# Python
+backend/venv/
+backend/__pycache__/
+**/__pycache__/
+*.pyc
+backend/app/uploads/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Database (local dev data, not needed in repo)
+backend/smart_construction.db
+
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+backend/app/ml/*.joblib
